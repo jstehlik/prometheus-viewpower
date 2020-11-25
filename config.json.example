@@ -1,0 +1,5 @@
+{
+    "targets": [{
+        "url": "http://xx.xx.xx.xx:yyyy/ViewPower/"
+    }]
+}
